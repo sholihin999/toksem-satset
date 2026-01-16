@@ -60,7 +60,7 @@ Project ini dibuat untuk keperluan **praktikum / UAS Pemrograman Berorientasi Ob
 | Database | PostgreSQL |
 | Server | Apache Tomcat 10 |
 | Build Tool | Maven |
-| IDE | NetBeans / IntelliJ IDEA |
+| IDE | NetBeans |
 
 ---
 
