@@ -159,7 +159,7 @@
                     Kelola toko sembako dengan <span style="color:var(--satset-blue)">satset</span>, cepat, dan rapi.
                 </h1>
                 <p class="lead text-white-50 mt-5 mb-5">
-                    Manajemen aplikasi kasir berbasis web untuk mengelola produk, transaksi, dan laporan keuangan dengan UI responsif dan alur kerja yang jelas.
+                    Aplikasi manajemen toko sembako berbasis web untuk mengelola produk, transaksi, dan laporan keuangan dengan UI responsif dan alur kerja yang jelas.
                 </p>
 
                 <div class="d-flex flex-wrap gap-2 mt-5 mb-5">
@@ -254,7 +254,7 @@
             <div class="col-lg-6">
                 <h2 class="fw-bold section-title mt-3 mb-4">About Toksem Satset</h2>
                 <p class="text-muted mb-4">
-                    Toksem Satset adalah project aplikasi kasir berbasis web yang dibuat untuk membantu toko sembako agar mengoptimalkan
+                    Toksem Satset adalah project aplikasi manajemen toko sembako berbasis web yang dibuat untuk membantu toko sembako agar mengoptimalkan
                     proses transaksi dan pengelolaan stok toko sembako secara terstruktur, cepat, dan efisien.
                 </p>
 
