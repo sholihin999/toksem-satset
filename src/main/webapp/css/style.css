@@ -1,0 +1,95 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Dec 30, 2025, 12:30:33 PM
+    Author     : muham
+*/
+:root{
+  --satset-blue:#3498db;
+  --satset-green-2:#145a43;
+  --satset-gold:#f6c445;
+  --satset-bg:#f6f7f9;
+}
+
+body{ 
+    background:var(--satset-bg);
+}
+
+.app-shell{
+  min-height:100vh;
+  display:flex;
+}
+
+.app-sidebar{
+  width:260px;
+  background:#fff;
+  border-right:1px solid rgba(0,0,0,.08);
+}
+
+.app-topbar{
+  position:sticky;
+  top:0;
+  z-index:10;
+}
+
+.app-content{
+  flex:1;
+  min-width:0;
+}
+
+.brand-badge{
+  width:36px;height:36px;border-radius:10px;
+  display:grid;place-items:center;
+  background:var(--satset-blue);
+  color:#fff;font-weight:800;
+}
+
+.app-sidebar{
+    background-color: white;
+}
+
+.app-sidebar .nav-link{
+  border-radius:10px;
+  padding:.6rem .75rem;
+  color:#2d3436;
+}
+
+.app-sidebar .nav-link:hover{
+  background:rgba(52, 152, 219, 0.15);
+}
+
+.app-sidebar .nav-link.active {
+  background: #0d6efd;
+  color: #fff !important;
+}
+
+
+.card-satset{
+  border:1px solid rgba(0,0,0,.06);
+  border-radius:16px;
+}
+
+.badge-stock{
+  background:var(--satset-gold);
+  color:#222;
+}
+
+/* Sidebar links with icons */
+.app-sidebar .nav-link,
+.offcanvas .nav-link{
+  display: flex;
+  align-items: center;
+  gap: .6rem;
+}
+.app-sidebar .nav-link i,
+.offcanvas .nav-link i{
+  width: 1.25rem;
+  text-align: center;
+  opacity: .9;
+}
+
+
+
+
